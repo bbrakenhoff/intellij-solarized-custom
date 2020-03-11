@@ -1,9 +1,9 @@
 <scheme name="Solarized Extra Dark Custom" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2020-01-22T07:20:59</property>
+    <property name="created">2020-03-11T07:31:02</property>
     <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">3.5.3.0</property>
-    <property name="modified">2020-01-22T07:21:02</property>
+    <property name="ideVersion">3.6.1.0</property>
+    <property name="modified">2020-03-11T07:31:12</property>
     <property name="originalScheme">Solarized Extra Dark Custom</property>
   </metaInfo>
   <colors>
@@ -146,6 +146,12 @@
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR4">
       <value>
         <option name="FOREGROUND" value="2674b7" />
+      </value>
+    </option>
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="b58900" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
@@ -1266,7 +1272,6 @@
         <option name="BACKGROUND" value="e3540" />
       </value>
     </option>
-    <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="KOTLIN_AUTO_CASTED_VALUE">
       <value>
         <option name="FOREGROUND" value="dbffdb" />
