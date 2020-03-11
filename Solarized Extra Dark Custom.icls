@@ -1,9 +1,9 @@
 <scheme name="Solarized Extra Dark Custom" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2020-03-11T07:31:02</property>
+    <property name="created">2020-03-11T08:04:50</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.6.1.0</property>
-    <property name="modified">2020-03-11T07:31:12</property>
+    <property name="modified">2020-03-11T08:04:57</property>
     <property name="originalScheme">Solarized Extra Dark Custom</property>
   </metaInfo>
   <colors>
@@ -123,6 +123,12 @@
         <option name="FOREGROUND" value="6c71c4" />
       </value>
     </option>
+    <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="859900" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="a27b00" />
@@ -155,6 +161,13 @@
       </value>
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="859900" />
+        <option name="EFFECT_COLOR" value="859900" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="Abstract class">
       <value>
         <option name="FOREGROUND" value="859900" />
@@ -418,6 +431,12 @@
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
         <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="268bd2" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.COLOR">
@@ -717,9 +736,7 @@
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="839496" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_METADATA">
       <value>
@@ -736,6 +753,11 @@
         <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="93a1a1" />
+      </value>
+    </option>
     <option name="DEFAULT_PARENTHS">
       <value>
         <option name="FOREGROUND" value="93a1a1" />
@@ -744,7 +766,7 @@
     <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
       <value>
-        <option name="EFFECT_COLOR" value="586e75" />
+        <option name="EFFECT_COLOR" value="839496" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1076,6 +1098,12 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="INHERITED_METHOD_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="859900" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="232c31" />
@@ -1272,6 +1300,12 @@
         <option name="BACKGROUND" value="e3540" />
       </value>
     </option>
+    <option name="KOTLIN_ABSTRACT_CLASS">
+      <value>
+        <option name="FOREGROUND" value="859900" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="KOTLIN_AUTO_CASTED_VALUE">
       <value>
         <option name="FOREGROUND" value="dbffdb" />
@@ -1282,6 +1316,12 @@
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value>
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_CONSTRUCTOR">
+      <value>
+        <option name="EFFECT_COLOR" value="268bd2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1296,7 +1336,8 @@
     </option>
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="EFFECT_COLOR" value="6c71c4" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_NAMESPACE_PROPERTY">
@@ -2909,7 +2950,7 @@
     </option>
     <option name="XML_PROLOGUE">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
     <option name="XML_TAG">
