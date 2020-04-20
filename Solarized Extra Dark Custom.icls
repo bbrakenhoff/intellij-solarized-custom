@@ -1,9 +1,9 @@
 <scheme name="Solarized Extra Dark Custom" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2020-03-11T08:04:50</property>
+    <property name="created">2020-04-20T09:33:56</property>
     <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">3.6.1.0</property>
-    <property name="modified">2020-03-11T08:04:57</property>
+    <property name="ideVersion">3.6.2.0</property>
+    <property name="modified">2020-04-20T09:34:03</property>
     <property name="originalScheme">Solarized Extra Dark Custom</property>
   </metaInfo>
   <colors>
@@ -621,7 +621,7 @@
     <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="2aa198" />
+        <option name="FOREGROUND" value="586e75" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -731,7 +731,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="2aa198" />
+        <option name="FOREGROUND" value="586e75" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
